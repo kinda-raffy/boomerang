@@ -5,7 +5,7 @@ Boomerang is a tool focused on retaining existing customers.
 More specifically, Boomerang relies on super peronalised messages to create genuine connections.
 To do this, customers will be redireced to a Boomerang form just before or after a purchase. This
 allows us to understand the context behind every purchase, and the questions on the form will be
-auto-generated based on the product on hand.
+auto-generated based on the shopping cart on hand.
 
 Boomerang may also pull data in from a business backend, which might include account information,
 location or a product description.
